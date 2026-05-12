@@ -33,7 +33,7 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 ## Links
 
 - Portfolio: [amehta.space](https://amehta.space)
-- Resume: [briskam.github.io/resume](https://briskam.github.io/resume/) / [PDF backup](https://files.catbox.moe/peyq2x.pdf)
+- Resume: [briskam.github.io/resume](https://briskam.github.io/resume/)
 - Main GitHub: [BriskAM](https://github.com/BriskAM)
 - Education GitHub: [23f3001694](https://github.com/23f3001694)
 - LinkedIn: [akshit-mehta-638688326](http://www.linkedin.com/in/akshit-mehta-638688326)
