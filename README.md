@@ -1,14 +1,37 @@
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=plastic&logo=Jellyfin&logoColor=00A4DC) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BriskAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BriskAM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BriskAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Akshit Mehta
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BriskAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Backend-focused software developer working with Python, Java, SQL, and web APIs.
 
----
-[![](https://visitcount.itsvg.in/api?id=BriskAM&icon=0&color=0)](https://visitcount.itsvg.in)
+I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science and Applications at IIT Madras. I like building practical backend systems, developer tools, and data-driven applications that are easy to run, test, and deploy.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Currently
+
+- Backend Developer Intern experience with Django REST Framework and API migration work
+- Building with FastAPI, Flask, Django REST Framework, SQLAlchemy, Docker, and Linux
+- Strengthening Java backend skills with Spring Boot, JPA, PostgreSQL, and JUnit
+- Practicing DSA and problem solving for entry-level software engineering roles
+
+## Featured Work
+
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| [TDS Quiz Solver](https://github.com/23f3001694/llm-tools) | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
+| [Clip Rewrite](https://github.com/BriskAM/clip-rewrite) | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
+| [Redrob Resume Matcher](https://github.com/BriskAM/redrob) | Python | TF-IDF resume matching, skill normalization, cosine similarity, standard-library implementation |
+| [SC-E](https://github.com/BriskAM/SC-E) / [MAD-1-L](https://github.com/BriskAM/MAD-1-L) | Shell, Python | Public educational repositories with 90+ combined GitHub stars |
+
+## Tech I Use
+
+**Languages:** Python, Java, SQL, Bash, JavaScript, HTML/CSS  
+**Backend:** FastAPI, Flask, Django REST Framework, SQLAlchemy, REST APIs  
+**Data:** Pandas, NumPy, scikit-learn, statistics, machine learning foundations  
+**Databases:** MySQL, SQLite, MariaDB, MongoDB, PostgreSQL basics  
+**Tools:** Git, Docker, Linux, Postman, Jupyter, macOS, GitHub Actions basics
+
+## Links
+
+- Portfolio: [amehta.space](https://amehta.space)
+- GitHub: [BriskAM](https://github.com/BriskAM) and [23f3001694](https://github.com/23f3001694)
+- LinkedIn: [akshit-mehta-638688326](http://www.linkedin.com/in/akshit-mehta-638688326)
+- Email: [akshit.mehta.work@gmail.com](mailto:akshit.mehta.work@gmail.com)
+
