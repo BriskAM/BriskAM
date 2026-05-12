@@ -4,6 +4,8 @@ Backend-focused software developer working with Python, Java, SQL, and web APIs.
 
 I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science and Applications at IIT Madras. I like building practical backend systems, developer tools, and data-driven applications that are easy to run, test, and deploy.
 
+> Coursework and IIT Madras project repositories are on my education account: [github.com/23f3001694](https://github.com/23f3001694)
+
 ## Currently
 
 - Backend Developer Intern experience with Django REST Framework and API migration work
@@ -31,7 +33,7 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 ## Links
 
 - Portfolio: [amehta.space](https://amehta.space)
-- GitHub: [BriskAM](https://github.com/BriskAM) and [23f3001694](https://github.com/23f3001694)
+- Main GitHub: [BriskAM](https://github.com/BriskAM)
+- Education GitHub: [23f3001694](https://github.com/23f3001694)
 - LinkedIn: [akshit-mehta-638688326](http://www.linkedin.com/in/akshit-mehta-638688326)
 - Email: [akshit.mehta.work@gmail.com](mailto:akshit.mehta.work@gmail.com)
-
