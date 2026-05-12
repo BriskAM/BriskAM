@@ -4,7 +4,7 @@ Backend-focused software developer working with Python, Java, SQL, and web APIs.
 
 I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science and Applications at IIT Madras. I like building practical backend systems, developer tools, and data-driven applications that are easy to run, test, and deploy.
 
-> Coursework and IIT Madras project repositories are on my education account: <a href="https://github.com/23f3001694"><u>https://github.com/23f3001694</u></a>
+> Coursework and IIT Madras project repositories are on my education account: [github.com/23f3001694](https://github.com/23f3001694)
 
 ## Currently
 
@@ -17,10 +17,10 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
-| <a href="https://github.com/23f3001694/llm-tools"><u>https://github.com/23f3001694/llm-tools</u></a> | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
-| <a href="https://github.com/BriskAM/clip-rewrite"><u>https://github.com/BriskAM/clip-rewrite</u></a> | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
-| <a href="https://github.com/BriskAM/redrob"><u>https://github.com/BriskAM/redrob</u></a> | Python | TF-IDF resume matching, skill normalization, cosine similarity, standard-library implementation |
-| <a href="https://github.com/BriskAM/SC-E"><u>https://github.com/BriskAM/SC-E</u></a> / <a href="https://github.com/BriskAM/MAD-1-L"><u>https://github.com/BriskAM/MAD-1-L</u></a> | Shell, Python | Public educational repositories with 90+ combined GitHub stars |
+| [TDS Quiz Solver](https://github.com/23f3001694/llm-tools) | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
+| [Clip Rewrite](https://github.com/BriskAM/clip-rewrite) | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
+| [Redrob Resume Matcher](https://github.com/BriskAM/redrob) | Python | TF-IDF resume matching, skill normalization, cosine similarity, standard-library implementation |
+| [SC-E](https://github.com/BriskAM/SC-E) / [MAD-1-L](https://github.com/BriskAM/MAD-1-L) | Shell, Python | Public educational repositories with 90+ combined GitHub stars |
 
 ## Tech I Use
 
@@ -32,8 +32,8 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 
 ## Links
 
-- Portfolio: <a href="https://amehta.space"><u>https://amehta.space</u></a>
-- Main GitHub: <a href="https://github.com/BriskAM"><u>https://github.com/BriskAM</u></a>
-- Education GitHub: <a href="https://github.com/23f3001694"><u>https://github.com/23f3001694</u></a>
-- LinkedIn: <a href="https://www.linkedin.com/in/akshit-mehta-638688326"><u>https://www.linkedin.com/in/akshit-mehta-638688326</u></a>
-- Email: <a href="mailto:akshit.mehta.work@gmail.com"><u>akshit.mehta.work@gmail.com</u></a>
+- Portfolio: [amehta.space](https://amehta.space)
+- Main GitHub: [BriskAM](https://github.com/BriskAM)
+- Education GitHub: [23f3001694](https://github.com/23f3001694)
+- LinkedIn: [akshit-mehta-638688326](http://www.linkedin.com/in/akshit-mehta-638688326)
+- Email: [akshit.mehta.work@gmail.com](mailto:akshit.mehta.work@gmail.com)
