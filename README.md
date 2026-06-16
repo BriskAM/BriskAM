@@ -29,7 +29,6 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 | [Cortex](https://github.com/BriskAM/cortex) | Vue 3, Flask, Celery, Redis, ChromaDB, Gemini, Gemma | RAG codebase Q&A companion, dynamic repo indexing (AST-aware function/class chunking), PR \& diff integration, Server-Sent Events (SSE) typewriter-style streaming |
 | [TDS Quiz Solver](https://github.com/23f3001694/llm-tools) | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
 | [Clip Rewrite](https://github.com/BriskAM/clip-rewrite) | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
-| [Redrob Resume Matcher](https://github.com/BriskAM/redrob) | Python | TF-IDF resume matching, skill normalization, cosine similarity, standard-library only |
 
 ## Tech I Use
 
