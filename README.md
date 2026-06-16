@@ -26,6 +26,7 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [Cortex](https://github.com/BriskAM/cortex) | Vue 3, Flask, Celery, Redis, ChromaDB, Gemini, Gemma | RAG codebase Q&A companion, dynamic repo indexing (AST-aware function/class chunking), PR \& diff integration, Server-Sent Events (SSE) typewriter-style streaming |
 | [TDS Quiz Solver](https://github.com/23f3001694/llm-tools) | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
 | [Clip Rewrite](https://github.com/BriskAM/clip-rewrite) | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
 | [Redrob Resume Matcher](https://github.com/BriskAM/redrob) | Python | TF-IDF resume matching, skill normalization, cosine similarity, standard-library only |
@@ -33,8 +34,8 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 ## Tech I Use
 
 **Languages:** Python, Java, SQL, Bash, JavaScript, HTML/CSS  
-**ML & Data:** LightGBM, PyTorch, scikit-learn, Pandas, NumPy, Jupyter  
-**Backend:** FastAPI, Flask, Django REST Framework, SQLAlchemy, REST APIs  
+**ML & Data:** LightGBM, PyTorch, scikit-learn, Pandas, NumPy, Jupyter, ChromaDB  
+**Backend:** FastAPI, Flask, Django REST Framework, SQLAlchemy, REST APIs, Celery, Redis  
 **Databases:** MySQL, SQLite, MariaDB, MongoDB, PostgreSQL basics  
 **DevOps & Tools:** Git, Docker, Linux, GitHub Actions (CI/CD), macOS
 
