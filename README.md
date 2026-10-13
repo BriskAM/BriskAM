@@ -1,6 +1,6 @@
 # Akshit Mehta
 
-Backend-focused software developer working with Python, Java, SQL, and web APIs. I convert notebooks and experiments into production-grade, tested, deployable systems.
+Software engineer intern at **Stellantis**, working on virtualization of software with tools like QEMU. Backend-focused developer working with Python, Java, Go, SQL, and web APIs. I convert notebooks and experiments into production-grade, tested, deployable systems.
 
 I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science and Applications at IIT Madras. I like building practical backend systems, ML pipelines, developer tools, and data-driven applications that are easy to run, test, and deploy.
 
@@ -8,7 +8,8 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 
 ## Currently
 
-- Backend Developer Intern experience with Django REST Framework and API migration work
+- Software Engineer Intern at Stellantis (since October 2026), working on virtualization of software with QEMU and similar tools
+- Previously Backend Developer Intern at OTET Infosystems: Django REST Framework and a Laravel to Django migration
 - Building ML projects as production pipelines (config-driven, tested, Dockerized, CI/CD)
 - Strengthening Java backend skills with Spring Boot, JPA, PostgreSQL, and JUnit
 - Practicing DSA and problem solving for entry-level software engineering roles
@@ -32,15 +33,16 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 | [Stash](https://github.com/BriskAM/stash) | Flask, SQLite, SQLAlchemy, Docker, Vanilla JS | Lightweight URL stashing utility prepended via address bar. Features trailing-slash insensitive deduplication, interactive monospace UI with checkbox status, and standalone portable HTML exports |
 | [Telegram Job Scraper](https://github.com/BriskAM/telegram-job-scraper) | Python, Gemini AI, Telegram Bot API, Docker | Lightweight scraper filtering job postings via Gemini AI, deduplicating records, and broadcasting alerts to Telegram channels |
 | [TDS Quiz Solver](https://github.com/23f3001694/llm-tools) | FastAPI, LangGraph, Playwright, Docker | LLM agent orchestration, sandboxed code execution, browser automation, API design |
+| [frick](https://github.com/BriskAM/frick) | Go, shell integration, Gemini/Groq, Homebrew | Sub-5ms terminal autocorrect CLI with LLM context awareness and a safe/warning/danger tier that stops destructive commands |
 | [Clip Rewrite](https://github.com/BriskAM/clip-rewrite) | FastAPI, SQLAlchemy, Jinja2, Docker | Temporary text/file sharing, uploads, syntax highlighting, expiration workflows |
 
 ## Tech I Use
 
-**Languages:** Python, Java, SQL, Bash, JavaScript, HTML/CSS  
+**Languages:** Python, Java, Go, SQL, Bash, JavaScript, HTML/CSS  
 **ML & Data:** PyTorch, scikit-learn, TensorFlow (basic), LightGBM, Pandas, NumPy, Jupyter, ChromaDB  
 **Backend:** FastAPI, Flask, Django REST Framework, SQLAlchemy, REST APIs, Celery, Redis, Pytest  
 **Databases:** PostgreSQL, MySQL, SQLite, MariaDB, MongoDB  
-**DevOps & Tools:** Git, Docker, AWS (EC2, S3), Linux, GitHub Actions (CI/CD), Postman, macOS
+**DevOps & Tools:** Git, Docker, QEMU / virtualization, AWS (EC2, S3), Linux, GitHub Actions (CI/CD), Postman, macOS
 
 ## Links
 
