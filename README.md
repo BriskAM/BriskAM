@@ -1,6 +1,6 @@
 # Akshit Mehta
 
-Software engineer intern at **Stellantis**, working on virtualization of software with tools like QEMU. Backend-focused developer working with Python, Java, Go, SQL, and web APIs. I convert notebooks and experiments into production-grade, tested, deployable systems.
+Software engineering intern at **Stellantis**, working on virtualization of software with tools like QEMU. Backend-focused developer working with Python, Java, Go, SQL, and web APIs. I convert notebooks and experiments into production-grade, tested, deployable systems.
 
 I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science and Applications at IIT Madras. I like building practical backend systems, ML pipelines, developer tools, and data-driven applications that are easy to run, test, and deploy.
 
@@ -8,7 +8,7 @@ I am pursuing B.Tech Information Technology at MAIT and the BS in Data Science a
 
 ## Currently
 
-- Software Engineer Intern at Stellantis (since October 2026), working on virtualization of software with QEMU and similar tools
+- Software Engineering Intern at Stellantis (since October 2026), working on virtualization of software with QEMU and similar tools
 - Previously Backend Developer Intern at OTET Infosystems: Django REST Framework and a Laravel to Django migration
 - Building ML projects as production pipelines (config-driven, tested, Dockerized, CI/CD)
 - Strengthening Java backend skills with Spring Boot, JPA, PostgreSQL, and JUnit
